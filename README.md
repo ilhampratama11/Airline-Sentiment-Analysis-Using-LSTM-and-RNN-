@@ -1,1 +1,2 @@
-# Airline-Sentiment-Analysis-Using-LSTM-and-RNN-
+# Airline-Sentiment-Analysis-Using-LSTM-and-RNN
+Using LSTM and RNN algorithms in airline sentiment analysis helps to capture the context of customer review data in more depth. These algorithms are capable of processing sequential data, such as text, to identify positive, negative, or neutral sentiments with higher accuracy. In addition, these models can be applied to predict customer response patterns to specific services, allowing airlines to anticipate customer needs or issues in a more timely manner.
